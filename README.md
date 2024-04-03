@@ -2,9 +2,9 @@
 **Made with JavaScript and hosted on Firebase & Glitch!**
 
 
-<img src="https://github.com/IEfrances/CodeToGive-2024/assets/97649157/619cd5cf-716f-4313-832e-b683e9ae54be" alt="Alt Text" width="600" height="350">
-<img src="https://github.com/IEfrances/CodeToGive-2024/assets/97649157/c0530786-9c00-477a-9d89-7a408f6bcf2f" alt="Alt Text" width="600" height="350">
-<img src="https://github.com/IEfrances/CodeToGive-2024/assets/97649157/aec4139f-f68e-475a-8baf-6f91ebb7d805" alt="Alt Text" width="600" height="350">
+<img src="https://github.com/IEfrances/CodeToGive-2024/assets/97649157/619cd5cf-716f-4313-832e-b683e9ae54be" alt="Alt Text" width="700" height="350">
+<img src="https://github.com/IEfrances/CodeToGive-2024/assets/97649157/c0530786-9c00-477a-9d89-7a408f6bcf2f" alt="Alt Text" width="700" height="350">
+<img src="https://github.com/IEfrances/CodeToGive-2024/assets/97649157/aec4139f-f68e-475a-8baf-6f91ebb7d805" alt="Alt Text" width="700" height="350">
 
 
 
