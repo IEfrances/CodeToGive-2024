@@ -1,6 +1,9 @@
 # Team 6 for Morgan Stanley's Code To Give Hackathon
 **Made with JavaScript and hosted on Firebase & Glitch!**
 
+
+![caregiver_page](https://github.com/IEfrances/CodeToGive-2024/assets/97649157/aec4139f-f68e-475a-8baf-6f91ebb7d805)
+
 >[!NOTE]
 >This website is currently in beta and bugs will be a-plenty! Please report bugs if you find any!
 
